@@ -809,3 +809,7 @@ header .navbar .dropdown-menu a {
   opacity: 0;
   visibility: hidden;
 }
+iframe{
+    width: 100%;
+    height: 100%;
+}
